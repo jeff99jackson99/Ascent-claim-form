@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initialize EmailJS
     // Note: In a real implementation, you would use your own EmailJS user ID
     (function() {
-        emailjs.init("user_xxxxxxxxxxxxxxxxxxxx"); // Replace with your actual EmailJS user ID
+        emailjs.init("user_service_cpqhxg7"); // Replace with your actual EmailJS user ID
     })();
     
     // ===== NAVIGATION FUNCTIONS =====
