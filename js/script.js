@@ -58,9 +58,8 @@ document.addEventListener('DOMContentLoaded', function() {
     totalRequiredFields.textContent = requiredFields.length;
     
     // Initialize EmailJS
-    // Note: In a real implementation, you would use your own EmailJS user ID
     (function() {
-        emailjs.init("user_service_cpqhxg7"); // Replace with your actual EmailJS user ID
+        emailjs.init("jeff99jackson@gmail.com"); // EmailJS user ID (email connected to the service)
     })();
     
     // ===== NAVIGATION FUNCTIONS =====
@@ -572,7 +571,7 @@ document.addEventListener('DOMContentLoaded', function() {
         };
         
         // Send the email using EmailJS
-        emailjs.send('service_id', 'template_id', emailParams)
+        emailjs.send('service_cpqhxg7', 'template_claim_form', emailParams)
             .then(function(response) {
                 console.log('SUCCESS!', response.status, response.text);
             }, function(error) {
