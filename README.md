@@ -23,7 +23,7 @@ This project is an enhanced version of a vehicle claim form for Ascent Administr
 - **Print-Friendly Version**: Optimized layout for printing
 
 ### Submission Process
-- **Email Integration**: Sends form data directly to claimsteam@ascentadmin.com
+- **Email Integration**: Sends form data directly
 - **Confirmation Process**: Two-step confirmation before submission
 - **Success Feedback**: Clear confirmation when form is successfully submitted
 
