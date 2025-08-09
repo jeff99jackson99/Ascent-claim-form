@@ -1,0 +1,3 @@
+[main 61d78ce] Add GitHub Actions workflow for automatic deployment
+ 1 file changed, 19 insertions(+)
+ create mode 100644 .github/workflows/deploy.yml

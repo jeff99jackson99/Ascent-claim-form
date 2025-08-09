@@ -1,0 +1,8 @@
+  adding: outputs/ (stored 0%)
+  adding: outputs/workspace_output_1754766880_4877.txt (deflated 23%)
+  adding: outputs/workspace_output_1754766896_7220.txt (deflated 88%)
+  adding: outputs/workspace_output_1754766915_9630.txt (stored 0%)
+  adding: outputs/workspace_output_1754766936_9583.txt (deflated 20%)
+  adding: outputs/workspace_output_1754766966_1048.txt (stored 0%)
+  adding: outputs/workspace_output_1754766989_3759.txt (deflated 16%)
+  adding: outputs/workspace_output_1754767004_7146.txt
